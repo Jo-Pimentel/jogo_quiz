@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Berlin Sans FB;
+}
+
+.github-logo {
+    height: 50px;
+    width: 50px;
+    margin: 5px 0 0 5px;
+}
+
+.texto-acompanhante {
+    margin: 5px 0 0 5px;
+    color: #696969;
+}
+
+.principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.principal h1 {
+    font-size: 60px;
+    color: #6959CD;
+}
